@@ -1,0 +1,90 @@
+@font-face {
+    font-family: "BreeRegular";
+    src: url('Bree Regular.otf') format("truetype");
+}
+
+/*header
+{
+	background: #3753a6;
+}
+
+#divMain
+{
+	background: rgb(63, 81, 181);
+}
+*/
+footer
+{
+	background: #112b7a;
+	padding: 20px 0;
+	bottom: 0;
+	color: #fff;
+}
+
+footer .row h4
+{
+	font-family: "BreeRegular";
+	color: #fff;
+}
+
+footer .row hr
+{
+	border-top: 1px solid rgba(255, 255, 255, 1);
+}
+
+footer .row ul li a
+{
+	color: #fff;
+	text-decoration: none;
+}
+
+footer .row ul li a:active
+{
+	color: #fff;
+	text-decoration: none;
+}
+
+footer .row .terminos
+{
+	text-decoration: none;
+	color: #fff;
+}
+
+.col-center-block {
+    float: none;
+    display: block;
+    margin: 0 auto;
+}
+
+footer .row .terminos:active
+{
+	text-decoration: none;
+}
+
+.ir-arriba
+{
+	display: inline-block;
+	padding: 20px;
+	background: rgb(63, 81, 181);
+	font-size: 20px;
+	color: #fff;
+	cursor: pointer;
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+	border-radius: 20px;
+	z-index: 1;
+}
+
+.footer-top
+{
+	background: url('../img/footer.png') 50% 50% no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	height: 112px;
+	width: 100%;
+	/*position: relative;*/
+	bottom: 0;
+}
