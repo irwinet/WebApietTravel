@@ -24,6 +24,12 @@
 	background: rgb(63, 81, 181);
 }
 */
+
+*
+{
+	font-family: "BreeRegular";
+}
+
 footer
 {
 	background: #112b7a;
@@ -34,7 +40,6 @@ footer
 
 footer .row h4
 {
-	font-family: "BreeRegular";
 	color: #fff;
 }
 
@@ -102,7 +107,6 @@ footer .row .terminos:active
 
 .carousel h3
 {
-	font-family: "BreeRegular";
 	font-size: 3rem;
 	line-height: 1;
 	text-shadow: -1px 0 #112b7a, 1px 0 #112b7a, 0 1px #112b7a, 0 -1px #112b7a;
