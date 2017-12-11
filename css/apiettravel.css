@@ -1,6 +1,17 @@
+
+@font-face {
+    font-family: "BreeSerif";
+    src: url('../fonts/BreeSerif.ttf') format("truetype");
+}
+
 @font-face {
     font-family: "BreeRegular";
-    src: url('Bree Regular.otf') format("truetype");
+    src: url('../fonts/Bree Regular.otf') format("truetype");
+}
+
+@font-face {
+    font-family: "RalewayMedium";
+    src: url('../fonts/Raleway-Medium.ttf') format("truetype");
 }
 
 /*header
@@ -87,4 +98,14 @@ footer .row .terminos:active
 	width: 100%;
 	/*position: relative;*/
 	bottom: 0;
+}
+
+.carousel h3
+{
+	font-family: "BreeRegular";
+	font-size: 3rem;
+	line-height: 1;
+	text-shadow: -1px 0 #112b7a, 1px 0 #112b7a, 0 1px #112b7a, 0 -1px #112b7a;
+	/*text-shadow: #112b7a -1px 1px, #112b7a -2px 2px, #112b7a -3px 3px, #112b7a -4px 4px, #112b7a -5px 5px;*/
+	color: #fff;
 }
