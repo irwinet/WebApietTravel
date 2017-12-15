@@ -113,3 +113,8 @@ footer .row .terminos:active
 	/*text-shadow: #112b7a -1px 1px, #112b7a -2px 2px, #112b7a -3px 3px, #112b7a -4px 4px, #112b7a -5px 5px;*/
 	color: #fff;
 }
+
+#map {
+	width: 100%;
+	height: 600px;
+}

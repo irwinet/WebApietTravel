@@ -1,26 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-		<meta charset="UTF-8">
-		<title>ApietTravel</title>
-		<link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
-		<!-- CSS BOOTSTRAP -->
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
-		<!-- STYLE APIETTRAVEL -->
-		<link rel="stylesheet" href="css/apiettravel.css">
-		<link rel="stylesheet" href="img/fonts.css">
-		<!-- JS - SMOOTH SCROLL -->
-		<script src="js/jquery-1.11.1.min.js"></script>
-		<script src="js/smooth-scroll.min.js"></script>
-		<script src="js/apiettravel.js"></script>
-	</head>
-	<body>
-		<!-- Boton Ir Arriba -->
-		<span class="ir-arriba icon-arrow-up2"></span>
+<?php include('header.php'); ?>
 		
-		<!-- Cabeza -->
-		<div id="header"></div>
-
 		<!-- Inicio -->
 		<main role="main">
 			<!--<div class="jumbotron">
@@ -104,9 +83,11 @@
 		<!-- Mapa -->
 		<div class="container" id="sec-mapa">
 			<h1>Mapa</h1>
-			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae blanditiis ad repudiandae vel reiciendis earum cum quisquam placeat maiores dolores esse repellat eum eaque porro quis, minima, tempora ipsum consequatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam obcaecati, eius vitae, assumenda totam fugiat nihil eaque, fuga laudantium tempore quis a tempora. Ullam cum, ab quos, fugit sequi facilis? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates obcaecati quos, eligendi magni provident, a sunt esse! Ipsam odit, voluptatum, temporibus eligendi, iste in perferendis, laborum obcaecati illo modi perspiciatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum iure, non dignissimos ipsum architecto nihil repudiandae, dolores ut doloremque facere quasi sit modi possimus voluptate, vitae quod blanditiis? Libero, odio!
-			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae blanditiis ad repudiandae vel reiciendis earum cum quisquam placeat maiores dolores esse repellat eum eaque porro quis, minima, tempora ipsum consequatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam obcaecati, eius vitae, assumenda totam fugiat nihil eaque, fuga laudantium tempore quis a tempora. Ullam cum, ab quos, fugit sequi facilis? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates obcaecati quos, eligendi magni provident, a sunt esse! Ipsam odit, voluptatum, temporibus eligendi, iste in perferendis, laborum obcaecati illo modi perspiciatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum iure, non dignissimos ipsum architecto nihil repudiandae, dolores ut doloremque facere quasi sit modi possimus voluptate, vitae quod blanditiis? Libero, odio!
-			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae blanditiis ad repudiandae vel reiciendis earum cum quisquam placeat maiores dolores esse repellat eum eaque porro quis, minima, tempora ipsum consequatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam obcaecati, eius vitae, assumenda totam fugiat nihil eaque, fuga laudantium tempore quis a tempora. Ullam cum, ab quos, fugit sequi facilis? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates obcaecati quos, eligendi magni provident, a sunt esse! Ipsam odit, voluptatum, temporibus eligendi, iste in perferendis, laborum obcaecati illo modi perspiciatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum iure, non dignissimos ipsum architecto nihil repudiandae, dolores ut doloremque facere quasi sit modi possimus voluptate, vitae quod blanditiis? Libero, odio!
+			<div class="row">
+				<div class="col-md-12">
+					<div id="map"></div>
+				</div>
+			</div>
 		</div>		
 
 		<!-- Lugares -->
@@ -132,19 +113,4 @@
 			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae blanditiis ad repudiandae vel reiciendis earum cum quisquam placeat maiores dolores esse repellat eum eaque porro quis, minima, tempora ipsum consequatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam obcaecati, eius vitae, assumenda totam fugiat nihil eaque, fuga laudantium tempore quis a tempora. Ullam cum, ab quos, fugit sequi facilis? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates obcaecati quos, eligendi magni provident, a sunt esse! Ipsam odit, voluptatum, temporibus eligendi, iste in perferendis, laborum obcaecati illo modi perspiciatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum iure, non dignissimos ipsum architecto nihil repudiandae, dolores ut doloremque facere quasi sit modi possimus voluptate, vitae quod blanditiis? Libero, odio!
 			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae blanditiis ad repudiandae vel reiciendis earum cum quisquam placeat maiores dolores esse repellat eum eaque porro quis, minima, tempora ipsum consequatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam obcaecati, eius vitae, assumenda totam fugiat nihil eaque, fuga laudantium tempore quis a tempora. Ullam cum, ab quos, fugit sequi facilis? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates obcaecati quos, eligendi magni provident, a sunt esse! Ipsam odit, voluptatum, temporibus eligendi, iste in perferendis, laborum obcaecati illo modi perspiciatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum iure, non dignissimos ipsum architecto nihil repudiandae, dolores ut doloremque facere quasi sit modi possimus voluptate, vitae quod blanditiis? Libero, odio!
 		</div>
-
-		<!-- Pie -->
-		<div id="footer"></div>
-
-		<script>
-			$("#header").load("header.html");
-			$("#footer").load("footer.html");
-		</script>
-
-		<!-- JQUERY - POPPER -->
-		<!-- <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script> -->
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
-	</body>
-</html>
-			
+<?php include('footer.php'); ?>			
