@@ -9,18 +9,21 @@
 		<!-- STYLE APIETTRAVEL -->
 		<link rel="stylesheet" href="css/apiettravel.css">
 		<link rel="stylesheet" href="img/fonts.css">
+		<!-- STYLE BAGUETTEBOX -->
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.css">
 		<!-- JS - SMOOTH SCROLL -->
 		<script src="js/jquery-1.11.1.min.js"></script> 
 		<script src="js/smooth-scroll.min.js"></script>
 		<script src="js/apiettravel.js"></script>
 		<script src="js/jquery.simpleWeather.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
 	</head>
 	<body data-spy="scroll" data-target="#navbarSupportedContent">
 		<!-- Boton Ir Arriba -->
 		<span class="ir-arriba icon-arrow-up2"></span>	
 		<header id="sec-inicio">
 			<nav class="navbar navbar-expand-md fixed-top">
-			  <a class="navbar-brand" href="#sec-inicio">
+			  <a class="navbar-brand" href="http://localhost:8080/webapiettravel/index.php">
 			  	<img src="img/apiettravel.png" width="30" height="30" class="d-inline-block align-top" alt="">
 				ApietTravel
 			  </a>

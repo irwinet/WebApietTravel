@@ -90,6 +90,10 @@
       }
     </script>
 
+    <script>
+      baguetteBox.run('.tz-gallery');
+    </script>
+
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDFn1_ye7In3khQ8Q7eNIKRGT5y7ab75gA&callback=initMap" async defer></script>
   </body>
 </html>

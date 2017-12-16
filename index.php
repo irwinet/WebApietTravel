@@ -54,32 +54,32 @@
 	          <div class="col-md-4">
 	            <h2>Dónde ir?</h2>
 	            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-	            <p><a class="btn btn-info" href="#" role="button">Ver más &raquo;</a></p>
+	            <p><a class="btn btn-primary" href="#" role="button">Ver más &raquo;</a></p>
 	          </div>
 	          <div class="col-md-4">
 	            <h2>Que hacer?</h2>
 	            <p class="text-justify">Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-	            <p><a class="btn btn-info" href="#" role="button">Ver más &raquo;</a></p>
+	            <p><a class="btn btn-primary" href="#" role="button">Ver más &raquo;</a></p>
 	          </div>
 	          <div class="col-md-4">
 	            <h2>Destinos</h2>
 	            <p class="text-justify">Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. lorem</p>
-	            <p><a class="btn btn-info" href="#" role="button">Ver más &raquo;</a></p>
+	            <p><a class="btn btn-primary" href="#" role="button">Ver más &raquo;</a></p>
 	          </div>
 	          <div class="col-md-4">
 	            <h2>Experiencias</h2>
 	            <p class="text-justify">Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-	            <p><a class="btn btn-info" href="#" role="button">Ver más &raquo;</a></p>
+	            <p><a class="btn btn-primary" href="#" role="button">Ver más &raquo;</a></p>
 	          </div>
 	          <div class="col-md-4">
 	            <h2>Cocina</h2>
 	            <p class="text-justify">Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-	            <p><a class="btn btn-info" href="#" role="button">Ver más &raquo;</a></p>
+	            <p><a class="btn btn-primary" href="#" role="button">Ver más &raquo;</a></p>
 	          </div>
 	          <div class="col-md-4">
 	            <h2>Galeria</h2>
 	            <p class="text-justify">Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-	            <p><a class="btn btn-info" href="#" role="button">Ver más &raquo;</a></p>
+	            <p><a class="btn btn-primary" href="#" role="button">Ver más &raquo;</a></p>
 	          </div>
 	        </div>
 
@@ -107,9 +107,94 @@
 		<!-- Galeria -->
 		<div class="container" id="sec-galeria">
 			<h1>Galeria</h1>
-			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae blanditiis ad repudiandae vel reiciendis earum cum quisquam placeat maiores dolores esse repellat eum eaque porro quis, minima, tempora ipsum consequatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam obcaecati, eius vitae, assumenda totam fugiat nihil eaque, fuga laudantium tempore quis a tempora. Ullam cum, ab quos, fugit sequi facilis? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates obcaecati quos, eligendi magni provident, a sunt esse! Ipsam odit, voluptatum, temporibus eligendi, iste in perferendis, laborum obcaecati illo modi perspiciatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum iure, non dignissimos ipsum architecto nihil repudiandae, dolores ut doloremque facere quasi sit modi possimus voluptate, vitae quod blanditiis? Libero, odio!
-			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae blanditiis ad repudiandae vel reiciendis earum cum quisquam placeat maiores dolores esse repellat eum eaque porro quis, minima, tempora ipsum consequatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam obcaecati, eius vitae, assumenda totam fugiat nihil eaque, fuga laudantium tempore quis a tempora. Ullam cum, ab quos, fugit sequi facilis? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates obcaecati quos, eligendi magni provident, a sunt esse! Ipsam odit, voluptatum, temporibus eligendi, iste in perferendis, laborum obcaecati illo modi perspiciatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum iure, non dignissimos ipsum architecto nihil repudiandae, dolores ut doloremque facere quasi sit modi possimus voluptate, vitae quod blanditiis? Libero, odio!
-			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae blanditiis ad repudiandae vel reiciendis earum cum quisquam placeat maiores dolores esse repellat eum eaque porro quis, minima, tempora ipsum consequatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam obcaecati, eius vitae, assumenda totam fugiat nihil eaque, fuga laudantium tempore quis a tempora. Ullam cum, ab quos, fugit sequi facilis? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates obcaecati quos, eligendi magni provident, a sunt esse! Ipsam odit, voluptatum, temporibus eligendi, iste in perferendis, laborum obcaecati illo modi perspiciatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum iure, non dignissimos ipsum architecto nihil repudiandae, dolores ut doloremque facere quasi sit modi possimus voluptate, vitae quod blanditiis? Libero, odio!
+			<div class="tz-gallery">
+		        <div class="row">
+		            <div class="col-sm-6 col-md-4">
+		                <div class="thumbnail">
+		                    <a class="lightbox" href="img/gallery/park.jpg">
+		                        <img src="img/gallery/park.jpg" alt="Park" height="300px" width="300px">
+		                    </a>
+		                    <div class="caption">
+		                        <h3>Plaza de Armas</h3>
+		                        <p class="text-justify text-truncate">
+		                        	Acogedora plaza de la ciudad. Con imágenes en bronce que representan la fauna silvestre local: el cóndor, el venado y el puma.
+		                        </p>
+		                        <p><a class="btn btn-primary" href="#" role="button">Ver más &raquo;</a></p>
+		                    </div>
+		                </div>
+		            </div>
+		            <div class="col-sm-6 col-md-4">
+		                <div class="thumbnail">
+		                    <a class="lightbox" href="img/gallery/bridge.jpg">
+		                        <img src="img/gallery/bridge.jpg" alt="Bridge" height="300px" width="300px">
+		                    </a>
+		                    <div class="caption">
+		                        <h3>Casona Illanya</h3>
+		                        <p class="text-justify text-truncate">
+		                        	Una primeras haciendas que surge a inicios de la colonia (1592). Levantada con elegante estilo arquitectónico francés. Produjo aguardiente de caña de azúcar, chancaca, miel de caña y contaba con moneda propia. Actualmente se encuentra restaurada, en ella se puede visitar el museo del Instituto Nacional de Cultura de Apurímac.
+		                        </p>
+		                        <p><a class="btn btn-primary" href="#" role="button">Ver más &raquo;</a></p>
+		                    </div>
+		                </div>
+		            </div>
+		            <div class="col-sm-6 col-md-4">
+		                <div class="thumbnail">
+		                    <a class="lightbox" href="img/gallery/tunnel.jpg">
+		                        <img src="img/gallery/tunnel.jpg" alt="Tunnel" height="300px" width="300px">
+		                    </a>
+		                    <div class="caption">
+		                        <h3>Parque Recreacional Taraccas (El Mirador)</h3>
+		                        <p class="text-justify text-truncate">
+		                        	Se observa la espléndida ciudad de Abancay, además de disfrutar de un paseo por el zoológico con animales de la región.
+		                        </p>
+		                        <p><a class="btn btn-primary" href="#" role="button">Ver más &raquo;</a></p>
+		                    </div>
+		                </div>
+		            </div>
+		            <div class="col-sm-6 col-md-4">
+		                <div class="thumbnail">
+		                    <a class="lightbox" href="img/gallery/coast.jpg">
+		                        <img src="img/gallery/coast.jpg" alt="Coast" height="300px" width="300px">
+		                    </a>
+		                    <div class="caption">
+		                        <h3>Santuario Nacional de Ampay</h3>
+		                        <p class="text-justify text-truncate">
+		                        	Protege principalmente la intimpa (podocarpus glomeratus don), especie arbórea en peligro de extinción, además de flora como las orquídeas, las bromelias y los helechos. Entre la fauna destacan los zorros, venados, osos de anteojos, vizcachas, pumas, gatos monteses, zorrinos, perdices y búhos. Área protegida con una extensión de 3.635,5 hectáreas y una altura entre los 2.850 msnm y 5.200 msnm.
+		                        </p>
+		                        <p><a class="btn btn-primary" href="#" role="button">Ver más &raquo;</a></p>
+		                    </div>
+		                </div>
+		            </div>
+		            <div class="col-sm-6 col-md-4">
+		                <div class="thumbnail">
+		                    <a class="lightbox" href="img/gallery/rails.jpg">
+		                        <img src="img/gallery/rails.jpg" alt="Rails" height="300px" width="300px">
+		                    </a>
+		                    <div class="caption">
+		                        <h3>Cañón del Río Apurímac</h3>
+		                        <p class="text-justify text-truncate">
+		                        	Límite entre las regiones de Apurímac y Cusco, uno de los más profundos de América y posiblemente del mundo. La quebrada honda, en la ruta Abancay-Cusco, es el lugar donde mejor se observa su gran belleza. El río baja violentamente desde los 5.000 msnm, hacia una gigantesca garganta, un impresionante espectáculo de la naturaleza. Es ideal para practicar canotaje, con rápidos de categoría II, III y IV.
+		                        </p>
+		                        <p><a class="btn btn-primary" href="#" role="button">Ver más &raquo;</a></p>
+		                    </div>
+		                </div>
+		            </div>
+		            <div class="col-sm-6 col-md-4">
+		                <div class="thumbnail">
+		                    <a class="lightbox" href="img/gallery/traffic.jpg">
+		                        <img src="img/gallery/traffic.jpg" alt="Traffic" height="300px" width="300px">
+		                    </a>
+		                    <div class="caption">
+		                        <h3>Conjunto Arqueológico de Saywite</h3>
+		                        <p class="text-justify text-truncate">
+		                        	Conjunto arqueológico donde destaca el Monolito de Saywite o monolito principal que mide 2,5 metros de altura, con tallados que representan la geografía y el medio ambiente de la zona. Dentro del complejo (2.400 msnm) puede observarse una sucesión de nueve fuentes, así como una serie de monolitos menores asociados a otro conjunto de fuentes; un altar con una plataforma rectangular de 18 por 34 metros vinculado al culto solar y la observación astronómica; resaltando el Intihuatana, bloque de piedra tallada con formas diversas.
+		                        </p>
+		                        <p><a class="btn btn-primary" href="#" role="button">Ver más &raquo;</a></p>
+		                    </div>
+		                </div>
+		            </div>
+		        </div>
+		    </div>
 		</div>
 
 		<!-- Contacto -->
