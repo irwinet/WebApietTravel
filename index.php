@@ -72,7 +72,7 @@
 	            <p><a class="btn btn-primary" href="#" role="button">Ver más &raquo;</a></p>
 	          </div>
 	          <div class="col-md-4">
-	            <h2>Cocina</h2>
+	            <h2>Gastronomía</h2>
 	            <p class="text-justify">Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
 	            <p><a class="btn btn-primary" href="#" role="button">Ver más &raquo;</a></p>
 	          </div>
@@ -111,8 +111,8 @@
 		        <div class="row">
 		            <div class="col-sm-6 col-md-4">
 		                <div class="thumbnail">
-		                    <a class="lightbox" href="img/gallery/park.jpg">
-		                        <img src="img/gallery/park.jpg" alt="Park" height="300px" width="300px">
+		                    <a class="lightbox" href="img/gallery/Plaza_Armas.jpg">
+		                        <img src="img/gallery/Plaza_Armas.jpg" class="img-fluid rounded" alt="Plaza de Armas">
 		                    </a>
 		                    <div class="caption">
 		                        <h3>Plaza de Armas</h3>
@@ -125,8 +125,8 @@
 		            </div>
 		            <div class="col-sm-6 col-md-4">
 		                <div class="thumbnail">
-		                    <a class="lightbox" href="img/gallery/bridge.jpg">
-		                        <img src="img/gallery/bridge.jpg" alt="Bridge" height="300px" width="300px">
+		                    <a class="lightbox" href="img/gallery/Casona_Illanya.jpg">
+		                        <img src="img/gallery/Casona_Illanya.jpg" class="img-fluid rounded mx-auto d-block" alt="Casona Illanya">
 		                    </a>
 		                    <div class="caption">
 		                        <h3>Casona Illanya</h3>
@@ -139,8 +139,8 @@
 		            </div>
 		            <div class="col-sm-6 col-md-4">
 		                <div class="thumbnail">
-		                    <a class="lightbox" href="img/gallery/tunnel.jpg">
-		                        <img src="img/gallery/tunnel.jpg" alt="Tunnel" height="300px" width="300px">
+		                    <a class="lightbox" href="img/gallery/Parque_Recreacional_Taraccas.jpg">
+		                        <img src="img/gallery/Parque_Recreacional_Taraccas.jpg" class="img-fluid rounded" alt="Parque Recreacional Taraccas (El Mirador)">
 		                    </a>
 		                    <div class="caption">
 		                        <h3>Parque Recreacional Taraccas (El Mirador)</h3>
@@ -153,8 +153,8 @@
 		            </div>
 		            <div class="col-sm-6 col-md-4">
 		                <div class="thumbnail">
-		                    <a class="lightbox" href="img/gallery/coast.jpg">
-		                        <img src="img/gallery/coast.jpg" alt="Coast" height="300px" width="300px">
+		                    <a class="lightbox" href="img/gallery/Santuario_Nacional_Ampay.jpg">
+		                        <img src="img/gallery/Santuario_Nacional_Ampay.jpg" alt="Santuario Nacional de Ampay" class="img-fluid rounded">
 		                    </a>
 		                    <div class="caption">
 		                        <h3>Santuario Nacional de Ampay</h3>
@@ -167,8 +167,8 @@
 		            </div>
 		            <div class="col-sm-6 col-md-4">
 		                <div class="thumbnail">
-		                    <a class="lightbox" href="img/gallery/rails.jpg">
-		                        <img src="img/gallery/rails.jpg" alt="Rails" height="300px" width="300px">
+		                    <a class="lightbox" href="img/gallery/Cañon_Rio_Apurimac.jpg">
+		                        <img src="img/gallery/Cañon_Rio_Apurimac.jpg" alt="Cañón del Río Apurímac" class="img-fluid rounded">
 		                    </a>
 		                    <div class="caption">
 		                        <h3>Cañón del Río Apurímac</h3>
@@ -181,8 +181,8 @@
 		            </div>
 		            <div class="col-sm-6 col-md-4">
 		                <div class="thumbnail">
-		                    <a class="lightbox" href="img/gallery/traffic.jpg">
-		                        <img src="img/gallery/traffic.jpg" alt="Traffic" height="300px" width="300px">
+		                    <a class="lightbox" href="img/gallery/Conjunto_Arqueologico_Saywite.jpg">
+		                        <img src="img/gallery/Conjunto_Arqueologico_Saywite.jpg" alt="Conjunto Arqueológico de Saywite" class="img-fluid rounded">
 		                    </a>
 		                    <div class="caption">
 		                        <h3>Conjunto Arqueológico de Saywite</h3>
