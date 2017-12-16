@@ -13,13 +13,14 @@
 		<script src="js/jquery-1.11.1.min.js"></script> 
 		<script src="js/smooth-scroll.min.js"></script>
 		<script src="js/apiettravel.js"></script>
+		<script src="js/jquery.simpleWeather.min.js"></script>
 	</head>
-	<body>
+	<body data-spy="scroll" data-target="#navbarSupportedContent">
 		<!-- Boton Ir Arriba -->
 		<span class="ir-arriba icon-arrow-up2"></span>	
 		<header id="sec-inicio">
-			<nav class="navbar navbar-expand-md fixed-top" style="background-color: #112b7a;">
-			  <a class="navbar-brand" href="#sec-inicio" style="color:#fff;">
+			<nav class="navbar navbar-expand-md fixed-top">
+			  <a class="navbar-brand" href="#sec-inicio">
 			  	<img src="img/apiettravel.png" width="30" height="30" class="d-inline-block align-top" alt="">
 				ApietTravel
 			  </a>
@@ -30,19 +31,19 @@
 			  <div class="collapse navbar-collapse" id="navbarSupportedContent">
 			    <ul class="navbar-nav mr-auto">
 			      <li class="nav-item active">
-			        <a data-scroll class="nav-link" href="#sec-inicio" style="color:#fff;">Inicio <span class="sr-only">(current)</span></a>
+			        <a data-scroll class="nav-link" href="#sec-inicio">Inicio <span class="sr-only">(current)</span></a>
 			      </li>
 			      <li class="nav-item">
-			        <a data-scroll class="nav-link" href="#sec-mapa" style="color:#fff;">Mapa</a>
+			        <a data-scroll class="nav-link" href="#sec-mapa">Mapa</a>
 			      </li>
 			      <li class="nav-item">
-			        <a data-scroll class="nav-link" href="#sec-lugares" style="color:#fff;">Lugares</a>
+			        <a data-scroll class="nav-link" href="#sec-lugares">Lugares</a>
 			      </li>
 			      <li class="nav-item">
-			        <a data-scroll class="nav-link" href="#sec-galeria" style="color:#fff;">Galería</a>
+			        <a data-scroll class="nav-link" href="#sec-galeria">Galería</a>
 			      </li>
 			      <li class="nav-item">
-			        <a data-scroll class="nav-link" href="#sec-contacto" style="color:#fff;">Contacto</a>
+			        <a data-scroll class="nav-link" href="#sec-contacto">Contacto</a>
 			      </li>
 			    </ul>
 			    <form class="form-inline my-2 my-lg-0">
