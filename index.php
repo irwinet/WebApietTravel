@@ -15,24 +15,35 @@
 			    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
 			    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
 			    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>			    
+			    <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
 			  </ol>
 			  <div class="carousel-inner">
 			    <div class="carousel-item active">
 			      <img class="d-block w-100" src="img/carousel/Santuario-Nacional-de-Ampay-Apurimac-1.jpg" alt="First slide">
 			      <div class="carousel-caption d-none d-md-block">
 		            <h3>Santuario Nacional de Ampay</h3>
+		            <p></p>
 		          </div>
 			    </div>
 			    <div class="carousel-item">
 			      <img class="d-block w-100" src="img/carousel/Tuna-Santuario-Nacional-de-Ampay-Apurimac-2.jpg" alt="Second slide">
 			      <div class="carousel-caption d-none d-md-block">
 		            <h3>Tuna Santuario Nacional de Ampay</h3>
+		            <p></p>
 		          </div>
 			    </div>
 			    <div class="carousel-item">
 			      <img class="d-block w-100" src="img/carousel/Laguna-Pacucha-Apurimac-1.jpg" alt="Third slide">
 			      <div class="carousel-caption d-none d-md-block">
 		            <h3>Laguna de Pacucha</h3>
+		            <p></p>
+		          </div>
+			    </div>
+			    <div class="carousel-item">
+			      <img class="d-block w-100" src="img/carousel/Complejo-arqueologico-de-Sondor-Apurimac-2.jpg" alt="Fourth slide">
+			      <div class="carousel-caption d-none d-md-block">
+		            <h3>Complejo Arqueológico de Sondor</h3>
+		            <p></p>
 		          </div>
 			    </div>
 			  </div>
@@ -224,19 +235,21 @@
 				</div>
 				<div class="col-sm-12 col-md-6">
 					<h1>Clima</h1>
-					<div class="containerWeather clearfix">
-					    <p class="location"></p>
-					    <p class="temperature"></p>
-					    <div class="climate_bg"></div>
-					    <div class="info_bg">
-					      <img class="dropicon" src="img/weather/Droplet.svg">
-					      <p class="humidity"></p>
-
-					      <img class="windicon" src="img/weather/Wind.svg">
-					      <div class="windspeed"></div>
-					    </div>
-					 </div>
-					 <div class="error"></div>
+					<center>
+						<div class="containerWeather clearfix">
+						    <p class="location"></p>
+						    <p class="temperature"></p>
+						    <div class="climate_bg"></div>
+						    <div class="info_bg">
+						      <img class="dropicon" src="img/weather/Droplet.svg">
+						      <p class="humidity"></p>
+						
+						      <img class="windicon" src="img/weather/Wind.svg">
+						      <div class="windspeed"></div>
+						    </div>
+						</div>
+					</center>
+					<div class="error"></div>
 				</div>
 			</div>
 		</div>
