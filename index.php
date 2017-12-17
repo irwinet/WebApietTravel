@@ -60,46 +60,64 @@
 		    <br />
 
 		    <div class="container">
-	        <!-- Example row of columns -->
-	        <div class="row">
-	          <div class="col-md-4">
-	            <h2>Dónde ir?</h2>
-	            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-	            <p><a class="btn btn-primary" href="#" role="button">Ver más &raquo;</a></p>
-	          </div>
-	          <div class="col-md-4">
-	            <h2>Que hacer?</h2>
-	            <p class="text-justify">Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-	            <p><a class="btn btn-primary" href="#" role="button">Ver más &raquo;</a></p>
-	          </div>
-	          <div class="col-md-4">
-	            <h2>Destinos</h2>
-	            <p class="text-justify">Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. lorem</p>
-	            <p><a class="btn btn-primary" href="#" role="button">Ver más &raquo;</a></p>
-	          </div>
-	          <div class="col-md-4">
-	            <h2>Experiencias</h2>
-	            <p class="text-justify">Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-	            <p><a class="btn btn-primary" href="#" role="button">Ver más &raquo;</a></p>
-	          </div>
-	          <div class="col-md-4">
-	            <h2>Gastronomía</h2>
-	            <p class="text-justify">Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-	            <p><a class="btn btn-primary" href="#" role="button">Ver más &raquo;</a></p>
-	          </div>
-	          <div class="col-md-4">
-	            <h2>Galeria</h2>
-	            <p class="text-justify">Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-	            <p><a class="btn btn-primary" href="#" role="button">Ver más &raquo;</a></p>
-	          </div>
-	        </div>
+		    	<h1 class="borderBottom">Enlaces Frecuentes</h1>
+		        <div class="row">   
+		        	<div class="col-md-12 centered">
+	                    <ul class="quad"> 
+	                        <li> 
+	                        	<a target="_blank" href="http://www.mincetur.gob.pe/"> <div class="ch-item" style="border-color:#0076a4; background-image:url('img/enlaces/enlace4.jpg');"> <div class="ch-info-wrap"> <div class="ch-name" style="background:#303F9F;font-family:'RalewayMedium';"> Dónde ir?</div> <div class="ch-info"> <div class="ch-info-front" style="background-image:url('img/enlaces/enlace4.jpg');"></div> <div class="ch-info-back" style="background:#303F9F;"> <p>Dónde ir?</p> </div> </div> </div> </div> </a> 
+	                        </li> 
 
+	                        <li> 
+	                        	<a target="_blank" href="http://dirceturapurimac.gob.pe/web/"> <div class="ch-item" style="border-color:#0076a4; background-image:url('img/enlaces/enlace10.jpg');"> <div class="ch-info-wrap"> <div class="ch-name" style="background:#03A9F4;font-family:'RalewayMedium';"> Que hacer?</div> <div class="ch-info"> <div class="ch-info-front" style="background-image:url('img/enlaces/enlace10.jpg');"></div> <div class="ch-info-back" style="background:#03A9F4;"> <p>Que hacer?</p> </div> </div> </div> </div> </a> 
+	                        </li> 
+
+	                        <li> 
+	                        	<a target="_blank" href="http://www.ytuqueplanes.com/"> <div class="ch-item" style="border-color:#dc2127; background-image:url('img/enlaces/enlace9.jpg');"> <div class="ch-info-wrap"> <div class="ch-name" style="background:#00796B;font-family:'RalewayMedium';"> Destinos</div> <div class="ch-info"> <div class="ch-info-front" style="background-image:url('img/enlaces/enlace9.jpg');"></div> <div class="ch-info-back" style="background:#00796B;"> <p>Destinos</p> </div> </div> </div> </div> </a> 
+	                        </li> 
+
+	                        <li> 
+	                        	<a target="_blank" href="http://www.apavitperu.org/"> <div class="ch-item" style="border-color:#0076a4; background-image:url('img/enlaces/enlace7.jpg');"> <div class="ch-info-wrap"> <div class="ch-name" style="background:#C2185B;font-family:'RalewayMedium';"> Experiencias</div> <div class="ch-info"> <div class="ch-info-front" style="background-image:url('img/enlaces/enlace7.jpg');"></div> <div class="ch-info-back" style="background:#C2185B;"> <p>Experiencias</p> </div> </div> </div> </div> </a> 
+	                        </li> 
+
+	                        <li> 
+	                        	<a target="_blank" href="http://www.ahora-peru.com/"> <div class="ch-item" style="border-color:#0076a4; background-image:url('img/enlaces/enlace8.jpg');"> <div class="ch-info-wrap"> <div class="ch-name" style="background:#0097A7;font-family:'RalewayMedium';"> Gastronomía</div> <div class="ch-info"> <div class="ch-info-front" style="background-image:url('img/enlaces/enlace8.jpg');"></div> <div class="ch-info-back" style="background:#0097A7;"> <p>Gastronomía</p> </div> </div> </div> </div> </a> 
+	                        </li> 
+	                    </ul>
+                    </div>
+            	</div>
+            	<hr>
+            	<div class="row">   
+		        	<div class="col-md-12 centered">
+	                    <ul class="quad"> 
+	                        <li> 
+	                        	<a target="_blank" href="http://www.mincetur.gob.pe/"> <div class="ch-item" style="border-color:#0076a4; background-image:url('img/enlaces/enlace1.jpg');"> <div class="ch-info-wrap"> <div class="ch-name" style="background:#0076a4;font-family:'RalewayMedium';"> Ministerio de Comercio Exterior y Turismo</div> <div class="ch-info"> <div class="ch-info-front" style="background-image:url('img/enlaces/enlace1.jpg');"></div> <div class="ch-info-back" style="background:#0076a4;"> <p>Ministerio de Comercio Exterior y Turismo</p> </div> </div> </div> </div> </a> 
+	                        </li> 
+
+	                        <li> 
+	                        	<a target="_blank" href="http://dirceturapurimac.gob.pe/web/"> <div class="ch-item" style="border-color:#0076a4; background-image:url('img/enlaces/enlace2.jpg');"> <div class="ch-info-wrap"> <div class="ch-name" style="background:#0076a4;font-family:'RalewayMedium';"> Dirección Regional de Comercio Exterior y Turismo</div> <div class="ch-info"> <div class="ch-info-front" style="background-image:url('img/enlaces/enlace2.jpg');"></div> <div class="ch-info-back" style="background:#0076a4;"> <p>Dirección Regional de Comercio Exterior y Turismo</p> </div> </div> </div> </div> </a> 
+	                        </li> 
+
+	                        <li> 
+	                        	<a target="_blank" href="http://www.ytuqueplanes.com/"> <div class="ch-item" style="border-color:#dc2127; background-image:url('img/enlaces/enlace3.jpg');"> <div class="ch-info-wrap"> <div class="ch-name" style="background:#dc2127;font-family:'RalewayMedium';"> Y tú qué planes? - Turismo y Viajes Perú</div> <div class="ch-info"> <div class="ch-info-front" style="background-image:url('img/enlaces/enlace3.jpg');"></div> <div class="ch-info-back" style="background:#dc2127;"> <p>Y tú qué planes? - Turismo y Viajes Perú</p> </div> </div> </div> </div> </a> 
+	                        </li> 
+
+	                        <li> 
+	                        	<a target="_blank" href="https://www.regionapurimac.gob.pe/"> <div class="ch-item" style="border-color:#0076a4; background-image:url('img/enlaces/enlace5.jpg');"> <div class="ch-info-wrap"> <div class="ch-name" style="background:#0076a4;font-family:'RalewayMedium';"> Gobierno Regional de Apurímac</div> <div class="ch-info"> <div class="ch-info-front" style="background-image:url('img/enlaces/enlace5.jpg');"></div> <div class="ch-info-back" style="background:#0076a4;"> <p>Gobierno Regional de Apurímac</p> </div> </div> </div> </div> </a> 
+	                        </li> 
+
+	                        <li> 
+	                        	<a target="_blank" href="http://www.muniabancay.gob.pe/"> <div class="ch-item" style="border-color:#0076a4; background-image:url('img/enlaces/enlace6.jpg');"> <div class="ch-info-wrap"> <div class="ch-name" style="background:#0076a4;font-family:'RalewayMedium';"> Municipalidad Provincial de Abancay</div> <div class="ch-info"> <div class="ch-info-front" style="background-image:url('img/enlaces/enlace6.jpg');"></div> <div class="ch-info-back" style="background:#0076a4;"> <p>Municipalidad Provincial de Abancay</p> </div> </div> </div> </div> </a> 
+	                        </li> 
+	                    </ul>
+                    </div>
+            	</div>
 	        <hr />
 		</main>
 
 		<!-- Mapa -->
 		<div class="container" id="sec-mapa">
-			<h1>Mapa</h1>
+			<h1 class="borderBottom">Mapa</h1>
 			<div class="row">
 				<div class="col-md-12">
 					<div id="map"></div>
@@ -109,7 +127,7 @@
 
 		<!-- Lugares -->
 		<div class="container" id="sec-lugares">
-			<h1>Lugares</h1>
+			<h1 class="borderBottom">Lugares</h1>
 			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae blanditiis ad repudiandae vel reiciendis earum cum quisquam placeat maiores dolores esse repellat eum eaque porro quis, minima, tempora ipsum consequatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam obcaecati, eius vitae, assumenda totam fugiat nihil eaque, fuga laudantium tempore quis a tempora. Ullam cum, ab quos, fugit sequi facilis? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates obcaecati quos, eligendi magni provident, a sunt esse! Ipsam odit, voluptatum, temporibus eligendi, iste in perferendis, laborum obcaecati illo modi perspiciatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum iure, non dignissimos ipsum architecto nihil repudiandae, dolores ut doloremque facere quasi sit modi possimus voluptate, vitae quod blanditiis? Libero, odio!
 			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae blanditiis ad repudiandae vel reiciendis earum cum quisquam placeat maiores dolores esse repellat eum eaque porro quis, minima, tempora ipsum consequatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam obcaecati, eius vitae, assumenda totam fugiat nihil eaque, fuga laudantium tempore quis a tempora. Ullam cum, ab quos, fugit sequi facilis? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates obcaecati quos, eligendi magni provident, a sunt esse! Ipsam odit, voluptatum, temporibus eligendi, iste in perferendis, laborum obcaecati illo modi perspiciatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum iure, non dignissimos ipsum architecto nihil repudiandae, dolores ut doloremque facere quasi sit modi possimus voluptate, vitae quod blanditiis? Libero, odio!
 			Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae blanditiis ad repudiandae vel reiciendis earum cum quisquam placeat maiores dolores esse repellat eum eaque porro quis, minima, tempora ipsum consequatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam obcaecati, eius vitae, assumenda totam fugiat nihil eaque, fuga laudantium tempore quis a tempora. Ullam cum, ab quos, fugit sequi facilis? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates obcaecati quos, eligendi magni provident, a sunt esse! Ipsam odit, voluptatum, temporibus eligendi, iste in perferendis, laborum obcaecati illo modi perspiciatis. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum iure, non dignissimos ipsum architecto nihil repudiandae, dolores ut doloremque facere quasi sit modi possimus voluptate, vitae quod blanditiis? Libero, odio!
@@ -117,7 +135,7 @@
 
 		<!-- Galeria -->
 		<div class="container" id="sec-galeria">
-			<h1>Galeria</h1>
+			<h1 class="borderBottom">Galeria</h1>
 			<div class="tz-gallery">
 		        <div class="row">
 		            <div class="col-sm-6 col-md-4">
@@ -212,7 +230,7 @@
 		<div class="container" id="sec-contacto">
 			<div class="row">
 				<div class="col-sm-12 col-md-6">
-					<h1>Contacto</h1>
+					<h1 class="borderBottom">Contacto</h1>
 					<form method="POST" action="">
 					  	<div class="form-group">
 					    	<label for="txtNombresApellidos">Nombres y Apellidos:</label>
@@ -234,7 +252,7 @@
 					</form>
 				</div>
 				<div class="col-sm-12 col-md-6">
-					<h1>Clima</h1>
+					<h1 class="borderBottom">Clima</h1>
 					<center>
 						<div class="containerWeather clearfix">
 						    <p class="location"></p>
