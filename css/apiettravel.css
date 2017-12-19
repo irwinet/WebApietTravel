@@ -32,7 +32,8 @@
 
 p
 {
-	font-family: "Roboto";
+	/*font-family: "Roboto";*/
+  font-family: "RalewayMedium";
 }
 
 footer
@@ -532,3 +533,27 @@ hr
   border-bottom: 1px dashed #112b7a;
 }
     
+/* STYLE LINK MAIN */
+.jumbotron
+{
+  background-color: rgb(63, 81, 181);
+  color: #fff;
+  padding-bottom: 0;
+  border-radius: 5px;
+}
+
+.social
+{
+  text-align: right;
+}
+
+.social ul li a img:hover
+{
+  transform: scale(1.05);
+  transition: all .5s;
+}
+
+.list-group > a > span
+{
+  text-align: left;
+}

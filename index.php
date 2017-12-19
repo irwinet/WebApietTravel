@@ -65,23 +65,23 @@
 		        	<div class="col-md-12 centered">
 	                    <ul class="quad"> 
 	                        <li> 
-	                        	<a target="_blank" href="http://www.mincetur.gob.pe/"> <div class="ch-item" style="border-color:#0076a4; background-image:url('img/enlaces/enlace4.jpg');"> <div class="ch-info-wrap"> <div class="ch-name" style="background:#303F9F;font-family:'RalewayMedium';"> Dónde ir?</div> <div class="ch-info"> <div class="ch-info-front" style="background-image:url('img/enlaces/enlace4.jpg');"></div> <div class="ch-info-back" style="background:#303F9F;"> <p>Dónde ir?</p> </div> </div> </div> </div> </a> 
+	                        	<a target="_blank" href="http://localhost:8080/webapiettravel/donde_ir.php"> <div class="ch-item" style="border-color:#0076a4; background-image:url('img/enlaces/enlace4.jpg');"> <div class="ch-info-wrap"> <div class="ch-name" style="background:#303F9F;font-family:'RalewayMedium';"> Dónde ir?</div> <div class="ch-info"> <div class="ch-info-front" style="background-image:url('img/enlaces/enlace4.jpg');"></div> <div class="ch-info-back" style="background:#303F9F;"> <p>Dónde ir?</p> </div> </div> </div> </div> </a> 
 	                        </li> 
 
 	                        <li> 
-	                        	<a target="_blank" href="http://dirceturapurimac.gob.pe/web/"> <div class="ch-item" style="border-color:#0076a4; background-image:url('img/enlaces/enlace10.jpg');"> <div class="ch-info-wrap"> <div class="ch-name" style="background:#03A9F4;font-family:'RalewayMedium';"> Que hacer?</div> <div class="ch-info"> <div class="ch-info-front" style="background-image:url('img/enlaces/enlace10.jpg');"></div> <div class="ch-info-back" style="background:#03A9F4;"> <p>Que hacer?</p> </div> </div> </div> </div> </a> 
+	                        	<a target="_blank" href="#"> <div class="ch-item" style="border-color:#0076a4; background-image:url('img/enlaces/enlace10.jpg');"> <div class="ch-info-wrap"> <div class="ch-name" style="background:#03A9F4;font-family:'RalewayMedium';"> Que hacer?</div> <div class="ch-info"> <div class="ch-info-front" style="background-image:url('img/enlaces/enlace10.jpg');"></div> <div class="ch-info-back" style="background:#03A9F4;"> <p>Que hacer?</p> </div> </div> </div> </div> </a> 
 	                        </li> 
 
 	                        <li> 
-	                        	<a target="_blank" href="http://www.ytuqueplanes.com/"> <div class="ch-item" style="border-color:#dc2127; background-image:url('img/enlaces/enlace9.jpg');"> <div class="ch-info-wrap"> <div class="ch-name" style="background:#00796B;font-family:'RalewayMedium';"> Destinos</div> <div class="ch-info"> <div class="ch-info-front" style="background-image:url('img/enlaces/enlace9.jpg');"></div> <div class="ch-info-back" style="background:#00796B;"> <p>Destinos</p> </div> </div> </div> </div> </a> 
+	                        	<a target="_blank" href="#"> <div class="ch-item" style="border-color:#dc2127; background-image:url('img/enlaces/enlace9.jpg');"> <div class="ch-info-wrap"> <div class="ch-name" style="background:#00796B;font-family:'RalewayMedium';"> Destinos</div> <div class="ch-info"> <div class="ch-info-front" style="background-image:url('img/enlaces/enlace9.jpg');"></div> <div class="ch-info-back" style="background:#00796B;"> <p>Destinos</p> </div> </div> </div> </div> </a> 
 	                        </li> 
 
 	                        <li> 
-	                        	<a target="_blank" href="http://www.apavitperu.org/"> <div class="ch-item" style="border-color:#0076a4; background-image:url('img/enlaces/enlace7.jpg');"> <div class="ch-info-wrap"> <div class="ch-name" style="background:#C2185B;font-family:'RalewayMedium';"> Experiencias</div> <div class="ch-info"> <div class="ch-info-front" style="background-image:url('img/enlaces/enlace7.jpg');"></div> <div class="ch-info-back" style="background:#C2185B;"> <p>Experiencias</p> </div> </div> </div> </div> </a> 
+	                        	<a target="_blank" href="#"> <div class="ch-item" style="border-color:#0076a4; background-image:url('img/enlaces/enlace7.jpg');"> <div class="ch-info-wrap"> <div class="ch-name" style="background:#C2185B;font-family:'RalewayMedium';"> Experiencias</div> <div class="ch-info"> <div class="ch-info-front" style="background-image:url('img/enlaces/enlace7.jpg');"></div> <div class="ch-info-back" style="background:#C2185B;"> <p>Experiencias</p> </div> </div> </div> </div> </a> 
 	                        </li> 
 
 	                        <li> 
-	                        	<a target="_blank" href="http://www.ahora-peru.com/"> <div class="ch-item" style="border-color:#0076a4; background-image:url('img/enlaces/enlace8.jpg');"> <div class="ch-info-wrap"> <div class="ch-name" style="background:#0097A7;font-family:'RalewayMedium';"> Gastronomía</div> <div class="ch-info"> <div class="ch-info-front" style="background-image:url('img/enlaces/enlace8.jpg');"></div> <div class="ch-info-back" style="background:#0097A7;"> <p>Gastronomía</p> </div> </div> </div> </div> </a> 
+	                        	<a target="_blank" href="#"> <div class="ch-item" style="border-color:#0076a4; background-image:url('img/enlaces/enlace8.jpg');"> <div class="ch-info-wrap"> <div class="ch-name" style="background:#0097A7;font-family:'RalewayMedium';"> Gastronomía</div> <div class="ch-info"> <div class="ch-info-front" style="background-image:url('img/enlaces/enlace8.jpg');"></div> <div class="ch-info-back" style="background:#0097A7;"> <p>Gastronomía</p> </div> </div> </div> </div> </a> 
 	                        </li> 
 	                    </ul>
                     </div>

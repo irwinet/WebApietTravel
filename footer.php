@@ -2,18 +2,18 @@
     <footer class="container-fluid">
       <div class="row">
       	<div class="col-sm-6 col-md-4 col-lg-4">
-      		<h4>Destinos</h4>
+      		<h4>Distritos</h4>
       		<hr />
       		<ul>
-      			<li><a href="#">Abancay</a></a></li>
-      			<li><a href="#">Chacoche</a></li>
-      			<li><a href="#">Circa</a></li>
-      			<li><a href="#">Curahuasi</a></li>
-      			<li><a href="#">Huanipaca</a></li>
-      			<li><a href="#">Lambrama</a></li>
-      			<li><a href="#">Pichirhua</a></li>
-      			<li><a href="#">San Pedro de Cachora</a></li>
-      			<li><a href="#">Tamburco</a></li>
+      			<li><a href="https://es.wikipedia.org/wiki/Distrito_de_Abancay">Abancay</a></a></li>
+      			<li><a href="https://es.wikipedia.org/wiki/Distrito_de_Chacoche">Chacoche</a></li>
+      			<li><a href="https://es.wikipedia.org/wiki/Distrito_de_Circa">Circa</a></li>
+      			<li><a href="https://es.wikipedia.org/wiki/Distrito_de_Curahuasi">Curahuasi</a></li>
+      			<li><a href="https://es.wikipedia.org/wiki/Distrito_de_Huanipaca">Huanipaca</a></li>
+      			<li><a href="https://es.wikipedia.org/wiki/Distrito_de_Lambrama">Lambrama</a></li>
+      			<li><a href="https://es.wikipedia.org/wiki/Distrito_de_Pichirhua">Pichirhua</a></li>
+      			<li><a href="https://es.wikipedia.org/wiki/Distrito_de_San_Pedro_de_Cachora">San Pedro de Cachora</a></li>
+      			<li><a href="https://es.wikipedia.org/wiki/Distrito_de_Tamburco">Tamburco</a></li>
       		</ul>
       	</div>
       	<div class="col-sm-6 col-md-4 col-lg-4">
@@ -43,7 +43,7 @@
       </div>
       <div class="row">
       	<div class="col-center-block">
-      		<span class="terminos">apiettravelperu@gmail.com</span>
+      		<span class="terminos">apiettravelperu@gmail.com - </span>
       		<strong><a href="#" class="terminos">Términos y Condiciones</a></strong>
       	</div>
       </div>
@@ -68,24 +68,27 @@
           ['Parque Daniel A. Carrión', -13.6407931,-72.8814353]
         ];
 
-        map=new google.maps.Map(document.getElementById('map'),
+        if(document.getElementById('map'))
         {
-          center:{lat:-13.6360181,lng:-72.8747562},
-          zoom:15
-        });
-        var infowindow = new google.maps.InfoWindow();
-        var marker, i;
-        for (i = 0; i < marcadores.length; i++) {  
-          marker = new google.maps.Marker({
-            position: new google.maps.LatLng(marcadores[i][1], marcadores[i][2]),
-            map: map
+          map=new google.maps.Map(document.getElementById('map'),
+          {
+            center:{lat:-13.6360181,lng:-72.8747562},
+            zoom:15
           });
-          google.maps.event.addListener(marker, 'click', (function(marker, i) {
-            return function() {
-              infowindow.setContent(marcadores[i][0]);
-              infowindow.open(map, marker);
-            }
-          })(marker, i));
+          var infowindow = new google.maps.InfoWindow();
+          var marker, i;
+          for (i = 0; i < marcadores.length; i++) {  
+            marker = new google.maps.Marker({
+              position: new google.maps.LatLng(marcadores[i][1], marcadores[i][2]),
+              map: map
+            });
+            google.maps.event.addListener(marker, 'click', (function(marker, i) {
+              return function() {
+                infowindow.setContent(marcadores[i][0]);
+                infowindow.open(map, marker);
+              }
+            })(marker, i));
+          }
         }
       }
     </script>
